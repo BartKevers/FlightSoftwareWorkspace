@@ -21,7 +21,7 @@
 	url = https://github.com/DelfiSpace/TMP100
 [submodule "ADCS_FlightSoftware"]
 	path = ADCS_FlightSoftware
-	url = https://github.com/DelfiSpace/ADCS_FlightSoftware
+	url = https://github.com/BartKevers/ADCS_FlightSoftware
 [submodule "DelfiPQcore"]
 	path = DelfiPQcore
 	url = https://github.com/DelfiSpace/DelfiPQcore
